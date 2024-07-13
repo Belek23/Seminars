@@ -12,3 +12,4 @@ C:\Users\Edu\Sem30.05\Seminars\Sem5\obj\Debug\net8.0\refint\Sem5.dll
 C:\Users\Edu\Sem30.05\Seminars\Sem5\obj\Debug\net8.0\Sem5.pdb
 C:\Users\Edu\Sem30.05\Seminars\Sem5\obj\Debug\net8.0\Sem5.genruntimeconfig.cache
 C:\Users\Edu\Sem30.05\Seminars\Sem5\obj\Debug\net8.0\ref\Sem5.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem5\obj\Debug\net8.0\Sem5.sourcelink.json
