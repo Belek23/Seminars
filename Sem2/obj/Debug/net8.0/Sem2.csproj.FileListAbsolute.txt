@@ -1,0 +1,14 @@
+C:\Users\Edu\Sem30.05\Seminars\Sem2\bin\Debug\net8.0\Sem2.exe
+C:\Users\Edu\Sem30.05\Seminars\Sem2\bin\Debug\net8.0\Sem2.deps.json
+C:\Users\Edu\Sem30.05\Seminars\Sem2\bin\Debug\net8.0\Sem2.runtimeconfig.json
+C:\Users\Edu\Sem30.05\Seminars\Sem2\bin\Debug\net8.0\Sem2.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem2\bin\Debug\net8.0\Sem2.pdb
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.AssemblyInfoInputs.cache
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.AssemblyInfo.cs
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\refint\Sem2.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.pdb
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\Sem2.genruntimeconfig.cache
+C:\Users\Edu\Sem30.05\Seminars\Sem2\obj\Debug\net8.0\ref\Sem2.dll

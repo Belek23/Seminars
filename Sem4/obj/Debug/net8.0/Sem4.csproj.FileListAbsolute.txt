@@ -1,0 +1,14 @@
+C:\Users\Edu\Sem30.05\Seminars\Sem4\bin\Debug\net8.0\Sem4.exe
+C:\Users\Edu\Sem30.05\Seminars\Sem4\bin\Debug\net8.0\Sem4.deps.json
+C:\Users\Edu\Sem30.05\Seminars\Sem4\bin\Debug\net8.0\Sem4.runtimeconfig.json
+C:\Users\Edu\Sem30.05\Seminars\Sem4\bin\Debug\net8.0\Sem4.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem4\bin\Debug\net8.0\Sem4.pdb
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.AssemblyInfoInputs.cache
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.AssemblyInfo.cs
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\refint\Sem4.dll
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.pdb
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\Sem4.genruntimeconfig.cache
+C:\Users\Edu\Sem30.05\Seminars\Sem4\obj\Debug\net8.0\ref\Sem4.dll
